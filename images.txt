@@ -1,1 +1,1 @@
-nginx
+certbot/certbot:v2.3.0
