@@ -1,3 +1,4 @@
 # 拉取镜像方式如下：
 # docker pull registry.cn-hangzhou.aliyuncs.com/caimiao/python:3.7
-jenkins/jenkins:latest
+# jenkins/jenkins:latest
+nvidia/cuda:12.2.0-base-ubuntu20.04
