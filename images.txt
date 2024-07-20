@@ -2,4 +2,5 @@
 # docker pull registry.cn-hangzhou.aliyuncs.com/caimiao/python:3.7
 # jenkins/jenkins:latest
 #nvidia/cuda:12.2.0-base-ubuntu20.04
-ultralytics/yolov5:latest-gpu
+
+ultralytics/yolov5:v5.0
