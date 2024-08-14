@@ -3,4 +3,5 @@
 # jenkins/jenkins:latest
 #nvidia/cuda:12.2.0-base-ubuntu20.04
 
-ultralytics/yolov5:v5.0
+# ultralytics/yolov5:v5.0
+openzipkin/zipkin:2.23
