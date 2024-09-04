@@ -6,4 +6,5 @@
 # ultralytics/yolov5:v5.0
 #bladex/sentinel-dashboard:latest
 #milvusdb/milvus:latest
-quay.io/coreos/etcd:v3.4.14
+#quay.io/coreos/etcd:v3.4.14
+apachepulsar/pulsar:2.8.0
