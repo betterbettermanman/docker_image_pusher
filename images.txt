@@ -14,4 +14,5 @@
 #nacos/nacos-server:v2.3.2
 #zlmediakit/zlmediakit:master
 #redis:6.2.5
-registry:2
+#registry:2
+mysql:8.0.20
