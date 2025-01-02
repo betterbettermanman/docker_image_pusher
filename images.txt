@@ -17,4 +17,5 @@
 #registry:2
 #mysql:8.0.20
 #golang:1.18.2
-alpine:latest
+#alpine:latest
+bellsoft/liberica-openjdk-alpine:19
