@@ -20,4 +20,5 @@
 #alpine:latest
 #bellsoft/liberica-openjdk-alpine:19
 # golang:1.23-alpine
-python:3.7-slim
+# python:3.7-slim
+node:18
