@@ -22,4 +22,5 @@
 # golang:1.23-alpine
 # python:3.7-slim
 # node:18
-eclipse-temurin:17-jdk
+# eclipse-temurin:17-jdk
+felixdumais1/eicab:v1.0.1
