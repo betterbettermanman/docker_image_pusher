@@ -25,4 +25,5 @@
 # eclipse-temurin:17-jdk
 # felixdumais1/eicab:v1.0.1
 # openjdk:8-jdk
-nginx:latest
+# nginx:latest
+nginx:1.26.3
