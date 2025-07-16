@@ -26,4 +26,5 @@
 # felixdumais1/eicab:v1.0.1
 # openjdk:8-jdk
 # nginx:latest
-nginx:1.26.3
+# nginx:1.26.3
+java:8
