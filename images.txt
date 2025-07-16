@@ -27,4 +27,4 @@
 # openjdk:8-jdk
 # nginx:latest
 # nginx:1.26.3
-java:8
+java:8 
