@@ -27,4 +27,5 @@
 # openjdk:8-jdk
 # nginx:latest
 # nginx:1.26.3
-redis:latest
+# redis:latest
+java:8
