@@ -28,4 +28,5 @@
 # nginx:latest
 # nginx:1.26.3
 # redis:latest
-java:8
+# java:8
+bestzwei/libretv:latest
