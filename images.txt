@@ -30,4 +30,4 @@
 # redis:latest
 # java:8
 # bestzwei/libretv:latest
-testsigma/server
+testsigmahq/server:v3.0.1
