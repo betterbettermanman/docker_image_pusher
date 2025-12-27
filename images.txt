@@ -2,7 +2,6 @@
 # docker pull registry.cn-hangzhou.aliyuncs.com/caimiao/python:3.7
 # jenkins/jenkins:latest
 #nvidia/cuda:12.2.0-base-ubuntu20.04
-
 # ultralytics/yolov5:v5.0
 #bladex/sentinel-dashboard:latest
 #milvusdb/milvus:latest
@@ -31,5 +30,5 @@
 # java:8
 # bestzwei/libretv:latest
 # testsigmahq/server:v3.0.1
-
 rustfs/rustfs:latest
+
