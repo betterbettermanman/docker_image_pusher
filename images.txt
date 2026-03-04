@@ -31,5 +31,6 @@
 # bestzwei/libretv:latest
 # testsigmahq/server:v3.0.1
 #rustfs/rustfs:latest
-mysql:8.0.24
+#mysql:8.0.24
+minio/minio:latest
 
