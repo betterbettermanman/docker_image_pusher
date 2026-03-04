@@ -32,5 +32,6 @@
 # testsigmahq/server:v3.0.1
 #rustfs/rustfs:latest
 #mysql:8.0.24
-minio/minio:latest
+#minio/minio:latest
+emqx/emqx:6.1.1
 
