@@ -37,5 +37,6 @@
 #maven:3.8.8-eclipse-temurin-8
 #anapsix/alpine-java:8_server-jre_unlimited
 #nousresearch/hermes-agent:latest
-seakee/cpa-manager:latest
+#seakee/cpa-manager:latest
+eceasy/cli-proxy-api:latest
 
