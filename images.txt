@@ -39,5 +39,5 @@
 #nousresearch/hermes-agent:latest
 #seakee/cpa-manager:latest
 #eceasy/cli-proxy-api:latest
-postgres:16-alpine
-
+#postgres:16-alpine
+calciumion/new-api:latest
