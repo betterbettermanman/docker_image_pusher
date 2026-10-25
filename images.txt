@@ -41,4 +41,4 @@
 #eceasy/cli-proxy-api:latest
 #postgres:16-alpine
 #calciumion/new-api:latest
-#bestzwei/libretv:2.21
+bestzwei/libretv:2.21
